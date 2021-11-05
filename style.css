@@ -1,0 +1,52 @@
+body{
+    margin: 0px;
+}
+h1{
+    color: rgb(230, 22, 119);
+    font-size:50px;
+}
+.intro{
+    font-size: 20px;
+    padding: 20px;
+    margin: 5px;
+    margin-left: 30px;
+    width: 40%;
+    float: left;
+}
+.paragraph{
+    color: tomato;
+}
+img{
+    width: 100%;
+}
+section{
+    height: 500px;
+}
+.button{
+    color: rgb(241, 13, 127);
+    text-decoration: none;
+    font-weight: 900px;
+    background-image: linear-gradient(80deg,rgb(12, 248, 12),#f7f30a);
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.introduction Rafi{
+    height: 500px;
+}
+.intro1{
+    font-size: 20px;
+    padding: 20px;
+    margin: 5px;
+    margin-left: 30px;
+    width: 40%;
+    float: left;
+
+}
+.introduction-Rafi{
+    background-image: url("image/dream-bg.png");
+    background-position: right;
+    background-repeat: no-repeat;
+
+
+}
